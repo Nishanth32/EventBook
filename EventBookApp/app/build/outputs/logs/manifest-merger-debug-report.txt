@@ -1,0 +1,534 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:2:1-144:12
+	package
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:8:5-11:60
+MERGED from [EventBookApp:eventbookcalendar:unspecified] C:\Users\jebes\AndroidStudioProjects\EventBookApp\eventbookcalendar\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jebes\.android\build-cache\3dd7575ad5ad6541171b30fd5810c7b47a0425e6\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.4.0] C:\Users\jebes\.android\build-cache\c32a198840ce46f87f6d753454f21a1ff35f94fb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\jebes\.android\build-cache\263591c3dd7cd4cb698001b02a51baa9b49ce546\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\jebes\.android\build-cache\9ba1962916b009acee4a569c6c934dbb802b7337\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\jebes\.android\build-cache\729b34e306cac7664fa80df7cef2a9a3e4b6d476\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\jebes\.android\build-cache\671cbbb017ff01b154878dd624152f14aef75493\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] C:\Users\jebes\.android\build-cache\e867c070c033c68542fe1dcd6b0b45c5ec9467cd\output\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\jebes\.android\build-cache\d88084386aea6b2610cce9edca225c3f7dd00b22\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\jebes\.android\build-cache\5be9137784f1effe3b6ede33d55c4201b44b9fa3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\jebes\.android\build-cache\cb8feed062e60fd10feb6cff94c258f0304f89fe\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.0] C:\Users\jebes\.android\build-cache\412b91a0b339fffa97b264cc5cc6221559d64ef3\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.0] C:\Users\jebes\.android\build-cache\1511f3fb4042593d4ee8805b4f0cf6608b9efaff\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.6.0] C:\Users\jebes\.android\build-cache\b54ea97a8e2163f267442c90be7a64f8668ff186\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.6.0] C:\Users\jebes\.android\build-cache\1394fbfc36c493303ad537be9e6d47241bf15f1f\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] C:\Users\jebes\.android\build-cache\e9963a6cbacb12f24d488bf6033e9ba2a1de90bb\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] C:\Users\jebes\.android\build-cache\a5892613147167c7d3b130ef968fbc71580e15c0\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] C:\Users\jebes\.android\build-cache\041bf789170e3ddfb754d0c08d786572dbe428f3\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] C:\Users\jebes\.android\build-cache\623546e774017dd6d2a5898d0224876cfe69ce76\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\jebes\.android\build-cache\a54c9a7c0abed1554634bb728accdcbdf9d16d0c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\jebes\.android\build-cache\c4cdccb84b4dd3fcc5a459bf23aa161ca8ed6abf\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places:11.6.0] C:\Users\jebes\.android\build-cache\c257cdc2312184294f2b6da6a8b5d832bebb6ec3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\jebes\.android\build-cache\4cb91e608f08d5854d651437b4e603bc77f87b13\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\jebes\.android\build-cache\c89c4ddd6ef42f6245f67e60be496ac2d6096c03\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\jebes\.android\build-cache\cddf7f26c8c74ec9642cd29c21faa90664daba26\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\jebes\.android\build-cache\a52cd5c7aaa6fa29028305b403bd5cd5a101d0e9\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.6.0] C:\Users\jebes\.android\build-cache\327da5948ce7f5fec07fbee2878d69fe2327555b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\jebes\.android\build-cache\5836185a0a6589cd716ae1924eb19def3d5fdf9a\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\jebes\.android\build-cache\eb9812e2415603b7f8fa3e34145831caddd979a1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\jebes\.android\build-cache\ff9881fe67359e937c74d71fe36a256ffaf77123\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\jebes\.android\build-cache\8ba71f5678217abb903220ef549bd7dfe20cebb0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\jebes\.android\build-cache\0f14416eb2daf1acfffda946d5ea81d255e791a1\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\jebes\.android\build-cache\df12e61eb7ddfb140c8f3198c0f0f0948a17ef20\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\jebes\.android\build-cache\be0ebbc9f5b3dc50ad5f117202f888a7293b3107\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\jebes\.android\build-cache\a26bc1aaf201289b48aa0751004c337fb28a8816\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\jebes\.android\build-cache\76c95b3631d7921c0370fd8c7479dc4f89a5175f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\jebes\.android\build-cache\e3361ebfed7d66b9e68999128a411b54ac8bf8db\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\jebes\.android\build-cache\24707f256ae8259f59ed384689176d886acabe7d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\jebes\.android\build-cache\15ee993e2d9e1b077164759eaf44036c66389fb9\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\jebes\.android\build-cache\dded2457f8270dd584d731a5c43fe467bca2c46f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\jebes\.android\build-cache\b971782ec8813d12679427b5fee3b1276082dfef\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\jebes\.android\build-cache\143c7a3532daca01f8591c4f08f41791fe1f70e4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\jebes\.android\build-cache\a2f674504577e13ec9f144518de9fb392593ba74\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\jebes\.android\build-cache\b45401c4402ed2bc47a05b01069bb0b72fa3376b\output\AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:11:9-57
+	android:targetSdkVersion
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:9:9-34
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\jebes\.android\build-cache\4cb91e608f08d5854d651437b4e603bc77f87b13\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\jebes\.android\build-cache\eb9812e2415603b7f8fa3e34145831caddd979a1\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:14:5-98
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:14:22-95
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\jebes\.android\build-cache\5be9137784f1effe3b6ede33d55c4201b44b9fa3\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\jebes\.android\build-cache\cb8feed062e60fd10feb6cff94c258f0304f89fe\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\jebes\.android\build-cache\4cb91e608f08d5854d651437b4e603bc77f87b13\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\jebes\.android\build-cache\eb9812e2415603b7f8fa3e34145831caddd979a1\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:18:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:20:22-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:21:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:24:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:25:22-78
+permission#com.example.eventbookapp.permission.C2D_MESSAGE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:29:9-71
+uses-permission#com.example.eventbookapp.permission.C2D_MESSAGE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:32:5-87
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:32:22-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:33:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\jebes\.android\build-cache\5be9137784f1effe3b6ede33d55c4201b44b9fa3\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\jebes\.android\build-cache\cb8feed062e60fd10feb6cff94c258f0304f89fe\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:33:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:35:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\jebes\.android\build-cache\eb9812e2415603b7f8fa3e34145831caddd979a1\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:35:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:42:22-76
+application
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:44:5-142:19
+MERGED from [EventBookApp:eventbookcalendar:unspecified] C:\Users\jebes\AndroidStudioProjects\EventBookApp\eventbookcalendar\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:11:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jebes\.android\build-cache\3dd7575ad5ad6541171b30fd5810c7b47a0425e6\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\jebes\.android\build-cache\c32a198840ce46f87f6d753454f21a1ff35f94fb\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\jebes\.android\build-cache\9ba1962916b009acee4a569c6c934dbb802b7337\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\jebes\.android\build-cache\729b34e306cac7664fa80df7cef2a9a3e4b6d476\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\jebes\.android\build-cache\671cbbb017ff01b154878dd624152f14aef75493\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.0] C:\Users\jebes\.android\build-cache\e867c070c033c68542fe1dcd6b0b45c5ec9467cd\output\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\jebes\.android\build-cache\d88084386aea6b2610cce9edca225c3f7dd00b22\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.6.0] C:\Users\jebes\.android\build-cache\5be9137784f1effe3b6ede33d55c4201b44b9fa3\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.6.0] C:\Users\jebes\.android\build-cache\cb8feed062e60fd10feb6cff94c258f0304f89fe\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.0] C:\Users\jebes\.android\build-cache\412b91a0b339fffa97b264cc5cc6221559d64ef3\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.0] C:\Users\jebes\.android\build-cache\1511f3fb4042593d4ee8805b4f0cf6608b9efaff\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive:11.6.0] C:\Users\jebes\.android\build-cache\b54ea97a8e2163f267442c90be7a64f8668ff186\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive-license:11.6.0] C:\Users\jebes\.android\build-cache\1394fbfc36c493303ad537be9e6d47241bf15f1f\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] C:\Users\jebes\.android\build-cache\a5892613147167c7d3b130ef968fbc71580e15c0\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] C:\Users\jebes\.android\build-cache\623546e774017dd6d2a5898d0224876cfe69ce76\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location:11.6.0] C:\Users\jebes\.android\build-cache\a54c9a7c0abed1554634bb728accdcbdf9d16d0c\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location-license:11.6.0] C:\Users\jebes\.android\build-cache\c4cdccb84b4dd3fcc5a459bf23aa161ca8ed6abf\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places:11.6.0] C:\Users\jebes\.android\build-cache\c257cdc2312184294f2b6da6a8b5d832bebb6ec3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\jebes\.android\build-cache\4cb91e608f08d5854d651437b4e603bc77f87b13\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\jebes\.android\build-cache\c89c4ddd6ef42f6245f67e60be496ac2d6096c03\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\jebes\.android\build-cache\cddf7f26c8c74ec9642cd29c21faa90664daba26\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] C:\Users\jebes\.android\build-cache\a52cd5c7aaa6fa29028305b403bd5cd5a101d0e9\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.6.0] C:\Users\jebes\.android\build-cache\327da5948ce7f5fec07fbee2878d69fe2327555b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\jebes\.android\build-cache\5836185a0a6589cd716ae1924eb19def3d5fdf9a\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\jebes\.android\build-cache\eb9812e2415603b7f8fa3e34145831caddd979a1\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\jebes\.android\build-cache\ff9881fe67359e937c74d71fe36a256ffaf77123\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\jebes\.android\build-cache\8ba71f5678217abb903220ef549bd7dfe20cebb0\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\jebes\.android\build-cache\0f14416eb2daf1acfffda946d5ea81d255e791a1\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\jebes\.android\build-cache\df12e61eb7ddfb140c8f3198c0f0f0948a17ef20\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\jebes\.android\build-cache\be0ebbc9f5b3dc50ad5f117202f888a7293b3107\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\jebes\.android\build-cache\a26bc1aaf201289b48aa0751004c337fb28a8816\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\jebes\.android\build-cache\76c95b3631d7921c0370fd8c7479dc4f89a5175f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\jebes\.android\build-cache\e3361ebfed7d66b9e68999128a411b54ac8bf8db\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\jebes\.android\build-cache\24707f256ae8259f59ed384689176d886acabe7d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\jebes\.android\build-cache\15ee993e2d9e1b077164759eaf44036c66389fb9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\jebes\.android\build-cache\dded2457f8270dd584d731a5c43fe467bca2c46f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\jebes\.android\build-cache\b971782ec8813d12679427b5fee3b1276082dfef\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\jebes\.android\build-cache\143c7a3532daca01f8591c4f08f41791fe1f70e4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\jebes\.android\build-cache\a2f674504577e13ec9f144518de9fb392593ba74\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\jebes\.android\build-cache\b45401c4402ed2bc47a05b01069bb0b72fa3376b\output\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:47:9-41
+	android:supportsRtl
+		ADDED from [EventBookApp:eventbookcalendar:unspecified] C:\Users\jebes\AndroidStudioProjects\EventBookApp\eventbookcalendar\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:45:9-35
+	android:icon
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:46:9-45
+	android:theme
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:48:9-65
+activity#com.example.eventbookapp.HomeActivity
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:49:9-59:20
+	android:screenOrientation
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:52:13-49
+	android:configChanges
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:51:13-48
+	android:theme
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:53:13-71
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:50:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:57:27-74
+activity#com.example.eventbookapp.CreateEvent
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:60:9-67:20
+	android:screenOrientation
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:63:13-49
+	android:parentActivityName
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:62:13-55
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:61:13-40
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:64:13-66:49
+	android:value
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:66:17-46
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:65:17-63
+activity#com.example.eventbookapp.EventList
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:68:9-76:20
+	android:screenOrientation
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:72:13-49
+	android:parentActivityName
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:71:13-55
+	android:theme
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:70:13-57
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:69:13-38
+activity#com.example.eventbookapp.EventDetails
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:77:9-84:20
+	android:screenOrientation
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:80:13-49
+	android:parentActivityName
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:79:13-55
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:78:13-41
+receiver#com.microsoft.windowsazure.notifications.NotificationsBroadcastReceiver
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:86:9-94:20
+	android:permission
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:88:13-73
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:87:13-99
+intent-filter#com.example.eventbookapp+com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:89:13-93:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:90:17-81
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:90:25-78
+category#com.example.eventbookapp
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:92:17-69
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:92:27-66
+activity#com.example.eventbookapp.DashboardActivity
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:97:13-46
+activity#cs.dal.eventbookapp.LoginPage
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:99:9-101:52
+	android:screenOrientation
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:100:13-57
+activity#cs.dal.eventbookapp.Registeration
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:102:9-104:52
+	android:screenOrientation
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:103:13-61
+activity#cs.dal.eventbookapp.AttachNotes
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:105:9-114:20
+	android:screenOrientation
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:109:13-49
+	android:label
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:107:13-64
+	android:parentActivityName
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:108:13-55
+	android:theme
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:110:13-69
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:106:13-59
+activity#cs.dal.eventbookapp.AttachedFiles
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:115:9-123:20
+	android:label
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:117:13-66
+	android:parentActivityName
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:118:13-73
+	android:theme
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:119:13-57
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:116:13-61
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:132:9-134:55
+	android:value
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:134:13-52
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:133:13-58
+activity#com.example.eventbookapp.MapsActivity
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:136:9-138:68
+	android:label
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:138:13-56
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:137:13-41
+activity#com.example.eventbookapp.AttendeesList
+ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:139:9-141:67
+	android:parentActivityName
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:141:13-55
+	android:name
+		ADDED from C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\src\main\AndroidManifest.xml:140:13-42
+activity#com.microsoft.windowsazure.mobileservices.authentication.RedirectUrlActivity
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:12:9-23:20
+	android:exported
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:13:13-104
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:15:13-22:29
+action#android.intent.action.VIEW
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:16:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:18:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:19:17-78
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:19:27-75
+data
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:21:17-43
+	android:scheme
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:21:23-40
+activity#com.microsoft.windowsazure.mobileservices.authentication.CustomTabsIntermediateActivity
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:25:13-115
+activity#com.microsoft.windowsazure.mobileservices.authentication.CustomTabsLoginActivity
+ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:27:9-30:47
+	android:launchMode
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:30:13-44
+	android:exported
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.microsoft.azure:azure-mobile-android:3.2.0] C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\AndroidManifest.xml:28:13-108
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.0] C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\AndroidManifest.xml:25:25-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\jebes\.android\build-cache\d88084386aea6b2610cce9edca225c3f7dd00b22\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\jebes\.android\build-cache\d88084386aea6b2610cce9edca225c3f7dd00b22\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\jebes\.android\build-cache\d88084386aea6b2610cce9edca225c3f7dd00b22\output\AndroidManifest.xml:23:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\AndroidManifest.xml:24:18-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\jebes\.android\build-cache\4cb91e608f08d5854d651437b4e603bc77f87b13\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\jebes\.android\build-cache\4cb91e608f08d5854d651437b4e603bc77f87b13\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] C:\Users\jebes\.android\build-cache\4cb91e608f08d5854d651437b4e603bc77f87b13\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\jebes\.android\build-cache\c89c4ddd6ef42f6245f67e60be496ac2d6096c03\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\jebes\.android\build-cache\c89c4ddd6ef42f6245f67e60be496ac2d6096c03\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\jebes\.android\build-cache\c89c4ddd6ef42f6245f67e60be496ac2d6096c03\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\jebes\.android\build-cache\c89c4ddd6ef42f6245f67e60be496ac2d6096c03\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\jebes\.android\build-cache\eb9812e2415603b7f8fa3e34145831caddd979a1\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\jebes\.android\build-cache\eb9812e2415603b7f8fa3e34145831caddd979a1\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:32:13-35:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:40:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\jebes\.android\build-cache\8ba71f5678217abb903220ef549bd7dfe20cebb0\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\jebes\.android\build-cache\8ba71f5678217abb903220ef549bd7dfe20cebb0\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\jebes\.android\build-cache\8ba71f5678217abb903220ef549bd7dfe20cebb0\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\jebes\.android\build-cache\8ba71f5678217abb903220ef549bd7dfe20cebb0\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\jebes\.android\build-cache\8ba71f5678217abb903220ef549bd7dfe20cebb0\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\jebes\.android\build-cache\be0ebbc9f5b3dc50ad5f117202f888a7293b3107\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\jebes\.android\build-cache\be0ebbc9f5b3dc50ad5f117202f888a7293b3107\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\jebes\.android\build-cache\be0ebbc9f5b3dc50ad5f117202f888a7293b3107\output\AndroidManifest.xml:20:20-65

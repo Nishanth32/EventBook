@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\16b1e3ad093c9c33d1eeae160580ef8d230fbfcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5ed05574ca7f8eeba9980f82e7acdd610f1b44b">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_e623cbefee89fb9ca0b535e0e50e52df8dc1a076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\eb9812e2415603b7f8fa3e34145831caddd979a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da443aff9cd3c2cd75b957e0547e1ca2c4f30308">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_f7cf300fc77b49f4efd4007edc0d35265a9779e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\e9963a6cbacb12f24d488bf6033e9ba2a1de90bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="269771e258a0d07bc8f5213f1f5ed77e8f42d72f">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_2f6c8736cb3eec07b36577af064888981c1349f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\4cb91e608f08d5854d651437b4e603bc77f87b13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48ab283a4cda3b78eda2c149b588cb0aa0c66cc9">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_d62e07f9fdfeb0048545b9e43dc461f4535ee9ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\b54ea97a8e2163f267442c90be7a64f8668ff186\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="831f41aeaed87d60267f25a60cd976e450b44580">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_7262895178023ec5046d915f933f793eaa4fb42e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jebes\.gradle\caches\modules-2\files-2.1\com.itextpdf\itext-pdfa\5.5.10\e9c27b1974db74e4fb604b69bc459e65700de702\itext-pdfa-5.5.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9c27b1974db74e4fb604b69bc459e65700de702">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\itext-pdfa-5.5.10_250545322c92abf8b9d59775ce342ce97adeeef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_90a14208ab32985a51240a072dd6efed75eaa410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\c89c4ddd6ef42f6245f67e60be496ac2d6096c03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_07efa046f60de0ee82467b18321301caa3658bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-notifications-handler\1.0.1\c322af100020e6db539f2aa367698d4b88fc453f\azure-notifications-handler-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c322af100020e6db539f2aa367698d4b88fc453f">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\azure-notifications-handler-1.0.1_7b57960d1b03e32b2b46b4895385cb246f6a2996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\041bf789170e3ddfb754d0c08d786572dbe428f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d90cb9610620b7631c75f1953a4956810edd4bed">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_b20cde1bfb4d9ec5d9b46d31bbf07ed9f394a3b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\a54c9a7c0abed1554634bb728accdcbdf9d16d0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42c5ee016c8815db37d662f18c497aee13150f9e">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_3fefbcbd703b781e792bb5dbf8649345732bbe49.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jebes\.android\build-cache\9ba1962916b009acee4a569c6c934dbb802b7337\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61a8b590d243665cd31285ad0cee4030abe79a8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\5be9137784f1effe3b6ede33d55c4201b44b9fa3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e77ffa091c317add00f041b0f152412099b9939">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_3477aecee5143d3acfdedc1350cdac97ef9413cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\f174631fef9317979d533516422b02d52afc92de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b8fd995f9c6c2caeb49827f0b52e0e8cc621e0">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_c736892688e4944b25792cc1c3605022b53242ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\671cbbb017ff01b154878dd624152f14aef75493\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_a06ac3384ca04baef7c5f784ab58c8a0ba2e979d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="98e419efc6e9112a53a18c90bedc31cde9bbcc6b">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5b2e4ec4046707d54d3bb77390c1773cb95c370c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\d88084386aea6b2610cce9edca225c3f7dd00b22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_e51c27af659bd53d8036b9dd78a9cf6d920c71f8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_75d790fe192c0084d6f5dd4d420eda6f3488d5b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\8ba71f5678217abb903220ef549bd7dfe20cebb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1cde19cbf9be88547ab4b7f03668eac5d91bd611">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_9247a0b54033526900d391148c35948193058f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\dded2457f8270dd584d731a5c43fe467bca2c46f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_dbb243be5d0c28b5241439dddb989cc574b03bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\15ee993e2d9e1b077164759eaf44036c66389fb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_aa594779296d0b8b97e918b9850b0776875fb5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\76c95b3631d7921c0370fd8c7479dc4f89a5175f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_ba56452ebcee3ec92ca64e482c5ed51a161c1ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\be0ebbc9f5b3dc50ad5f117202f888a7293b3107\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_b0440bfb9aa04a128a3e43da135e99f7293ec452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\AndroidStudioProjects\EventBookApp\eventbookcalendar\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a55161640f18a930132e962f2b9161098f96d8a">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_40570831f2a79ebea1deadc352451d051b75a36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\24707f256ae8259f59ed384689176d886acabe7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_922154c5091b136108d74c8050d10bfd2e6d496b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\8e17779bac9e1595659007b2b8653fbdf4479261\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6ff091e2c6df07894e5b921671404047d70d3f7">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_76e5ee98fcf9c1a2389352cd64fbe9ade59844ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\0787aa6fbed2c2a86c21ea278bf85db68f4876d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b8544d0c4d3a508ffc7da674ac79d5dc5d79395">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_c61f87c6ce061677f756de252964497fb34cfb36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\gson-2.3_2e84c85ad051ef664098f9808143e06f94bf1f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\okio-1.6.0_0a3ce3958b3d495616c63a3e3b71a1cec30a448a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\e3361ebfed7d66b9e68999128a411b54ac8bf8db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_542156a61419c7c4cfba86b3f93e2883d3eb3cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\c32a198840ce46f87f6d753454f21a1ff35f94fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_8e328950ec7321fbfa76f8cd1348f203bc9fe0de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\729b34e306cac7664fa80df7cef2a9a3e4b6d476\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_5c47b725bb62f4695f108660af2f33802b6fd0c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14d073f604cdff5582479695f757844977473986">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5b2e4ec4046707d54d3bb77390c1773cb95c370c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\a26bc1aaf201289b48aa0751004c337fb28a8816\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_14bb2e33350345fcd42ff7f7321e9ff758c907f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_75d790fe192c0084d6f5dd4d420eda6f3488d5b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\cb8feed062e60fd10feb6cff94c258f0304f89fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7b0e8bbef30cef79d7bb54bd4f671e3663bc7f4">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_264751b9605207d4fafe36158900f162d67e770f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\263591c3dd7cd4cb698001b02a51baa9b49ce546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_618f0cd1d441191caa4aaf37ec51464bcbc68e7d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jebes\.gradle\caches\modules-2\files-2.1\com.itextpdf\itextg\5.5.9\3580383b2c7db8fa2fee1ffbe1993017a9ea296e\itextg-5.5.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3580383b2c7db8fa2fee1ffbe1993017a9ea296e">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\itextg-5.5.9_64a62b5f9263fa8028cd729cacb66201663e4be7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\df12e61eb7ddfb140c8f3198c0f0f0948a17ef20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_d403823aa4b366c82e295a74672943a86cc68871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\c8bc90d058da82ea2f45331325678821b171c67c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6399340139f67ce4faba06e97f256ef0d6817c0">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_504322b6a699625666352f99c455b2515235f3a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jebes\.android\build-cache\c257cdc2312184294f2b6da6a8b5d832bebb6ec3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc387427a76c6a9fba40a490e48d244a989690c8">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\classes_1903a6c70db41a24697f29d962350be5ae7ad0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\jebes\AndroidStudioProjects\EventBookApp\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+
+</items>
