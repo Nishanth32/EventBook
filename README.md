@@ -14,6 +14,7 @@ On a high level our application has following components,
 	PDF Summary feature which merges all the notes, images and attachment of specific event to a PDF thus enabling the user to see the happenings of event captured in PDF format.
 	Sharing Feature which allows user to share the event details and its location on social media.
 
+![](https://github.com/Nishanth32/EventBook/blob/master/clickstream.png)
 
 Future Works
 
